@@ -1,0 +1,13 @@
+.list {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+}
+.shop {
+    flex-basis: 16%;
+    padding: 1em;
+    margin:0em;
+    border: 1px dotted crimson;
+    text-align:left;
+}
